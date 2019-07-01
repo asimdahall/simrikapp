@@ -1,0 +1,130 @@
+{
+	"offers": [
+		{
+			"name": "Shoes",
+			"location": "Koteshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.719061,
+				"longitude": 85.331232
+			},
+			"image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+			"coupon": "A1B2C3ED4",
+			"price": 1500,
+			"discount": 20,
+			"finalPrice": 1200,
+			"vendor": "Subham Shoes",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		},
+		{
+			"name": "Shirts",
+			"location": "Tripureshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.519061,
+				"longitude": 85.331232
+			},
+			"image": "https://5.imimg.com/data5/WE/XU/MY-29477425/latest-fancy-shirts-500x500.jpg",
+			"coupon": "A1B2C3ED4",
+			"price": 3500,
+			"discount": 10,
+			"finalPrice": 1100,
+			"vendor": "Subham Shoes",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		},
+		{
+			"name": "Pants",
+			"location": "Koteshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.69061,
+				"longitude": 85.331232
+			},
+			"image": "https://images.thenorthface.com/is/image/TheNorthFace/NF0A3BE3_ZBV_hero?$260x302$",
+			"coupon": "A1B2C3ED4",
+			"price": 2500,
+			"discount": 20,
+			"finalPrice": 2300,
+			"vendor": "Pants pasal",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		},
+		{
+			"name": "Iphone",
+			"location": "Koteshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ",
+			"region": {
+				"latitude": 27.719061,
+				"longitude": 85.331232
+			},
+			"image": "https://www.91-img.com/pictures/97744-v1-apple-iphone-7-mobile-phone-large-1.jpg",
+			"coupon": "A1B2C3ED4",
+			"price": 150000,
+			"discount": 20,
+			"finalPrice": 100000,
+			"vendor": "Subham phones",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		},
+		{
+			"name": "Macbook",
+			"location": "Baneshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.719061,
+				"longitude": 85.331232
+			},
+			"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/m/ac/macbook/select/macbook-select-space-gray-201706_GEO_US?wid=892&hei=820&&qlt=80&.v=1539399807811",
+			"coupon": "A1B2C3ED4",
+			"price": 250000,
+			"discount": 20,
+			"finalPrice": 230000,
+			"vendor": "Subham laptop center",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.28 kms"
+		},
+		{
+			"name": "Shoes",
+			"location": "Koteshwor, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.719061,
+				"longitude": 85.331232
+			},
+			"image": "https://www.bbsm.com.np/wp-content/uploads/2018/04/Bhat-Bhateni-Thimi-Bhaktapur-260x150.jpg",
+			"coupon": "A1B2C3ED4",
+			"price": 1500,
+			"discount": 20,
+			"finalPrice": 1200,
+			"vendor": "Subham Shoes",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		},
+		{
+			"name": "Refridgrerator",
+			"location": "Newroad, Kathmandu",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt placeat laboriosam debitis eveniet sit excepturi obcaecati fuga earum illo molestias odit provident vitae doloribus nam, possimus quis eius velit iure?",
+			"region": {
+				"latitude": 27.419061,
+				"longitude": 85.331232
+			},
+			"image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1550072140-gh-institute-fridgesfrisgeair-1550072114.jpg",
+			"coupon": "A1B2C3ED4",
+			"price": 1500,
+			"discount": 20,
+			"finalPrice": 1200,
+			"vendor": "Subham Electronics",
+			"rating": 2,
+			"website": "http://www.bbsm.com",
+			"distance": "1.22 kms"
+		}
+	]
+}
